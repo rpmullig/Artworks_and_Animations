@@ -1,3 +1,7 @@
+/*
+*	This program prints an ASCII Ship
+*/
+
 class PrintShip {
         public static void main( String[] args) {
                 System.out.println("                     ,;:'`'::'");
